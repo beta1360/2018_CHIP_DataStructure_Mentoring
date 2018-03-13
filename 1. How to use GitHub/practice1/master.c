@@ -1,2 +1,2 @@
 
-# Available after 2050-03-16
+# Available after Mar 16, 2018
