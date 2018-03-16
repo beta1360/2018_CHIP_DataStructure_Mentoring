@@ -21,7 +21,6 @@ void seperate_remover(char input[], char remover[], char output[]) {
 		for (int j = 0; j < remover_len; j++) {
 			if (input[i + j] == remover[j]) 
 				counter++;
-			printf("< %d :: %c (%c) >",counter, input[i+j],remover[j]);
 		}
 
 		if (counter == remover_len) {
