@@ -2,9 +2,10 @@
 
 Mar 22. 2018
 
-1. Linked list structure
-2. Create & Search
-3. Practice 1. Make linked list and search a data.  
-4. Insert
-5. Delete
-6. Practice 2. Seperate list
+1. Linked list basic structure
+2. Linked list basic operation
+   1. create
+   2. insert
+   3. delete
+   4. search and print
+3. Practice
