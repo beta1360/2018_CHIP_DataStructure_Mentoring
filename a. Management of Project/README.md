@@ -1,6 +1,6 @@
 # Management of Project
 
-1. Design
+## 1. Design
   - Design?
   - Design of Developing environment
   - Why set Developing environment?
